@@ -1,8 +1,8 @@
 :root{
-    --titulo-principal:#ff0000;
-    --cor-do-texto:#008000;
-    --cor-de-fundo:#000000;
-    --cor-do-botao:#FFCBDB;
+    --titulo-principal:#11114E;
+    --cor-do-texto:#161616;
+    --cor-de-fundo:#FFFFFF;
+    --cor-do-botao:#799eb8;
 }
 body{
     background-color:var(--cor-de-fundo);
@@ -12,6 +12,5 @@ h1{
 }
 *{
     margin:0;
-    padding: 0;
+    padding: 6px;
 }
-
