@@ -7,6 +7,18 @@
 body{
     background-color:var(--cor-de-fundo);
 }
+    .container_botao {
+        background-color:var (--cor-do-botao);
+    border-radius: 5px;
+    padding: 1em;
+     display: block;
+}
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
 h1{
     color:var(--titulo-principal);
 }
